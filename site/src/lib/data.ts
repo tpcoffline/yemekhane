@@ -1,8 +1,9 @@
 import type { AksamJson, DayMenu, KahvaltiJson, MenuDateKey } from '../types';
 import { sortDateKeysAsc } from './date';
 
-const KAHVALTI_URL = '/data/kahvalti_liste.json';
-const AKSAM_URL = '/data/aksam_liste.json';
+const BASE = import.meta.env.BASE_URL || '/';
+const KAHVALTI_URL = `${BASE}data/kahvalti_liste.json`;
+const AKSAM_URL = `${BASE}data/aksam_liste.json`;
 
 export async function fetchKahvalti(): Promise<KahvaltiJson> {
   const res = await fetch(KAHVALTI_URL);
