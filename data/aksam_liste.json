@@ -1,0 +1,130 @@
+{
+  "15-09-2025": {
+    "1. Yemek": "Ezogelin Çorba / Sebze Çorba",
+    "2. Yemek": "Tavuk Izgara / Mevsim Türlü",
+    "3. Yemek": "Pirinç Pilavı",
+    "4. Yemek": "Kuru Fasulye Piyaz",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200-100g", "150g", "200g"]
+  },
+  "16-09-2025": {
+    "1. Yemek": "Mercimek Çorba / Şehriye Çorba",
+    "2. Yemek": "İnegöl Köfte / Kabak Pane",
+    "3. Yemek": "Salçalı Makarna",
+    "4. Yemek": "Ayran",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200g", "200g", "180-200 ml"]
+  },
+  "17-09-2025": {
+    "1. Yemek": "Ezogelin Çorba / Erişteli Yeşil Mercimek Çorba",
+    "2. Yemek": "Tas Kebabı / Mücver",
+    "3. Yemek": "Bulgur Pilavı",
+    "4. Yemek": "Karışık Salata",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200g", "200g", "100g"]
+  },
+  "18-09-2025": {
+    "1. Yemek": "Mercimek Çorba / Domates Çorba",
+    "2. Yemek": "Çıtır Tavuk / Karışık Dolma + Yoğurt",
+    "3. Yemek": "Spagetti",
+    "4. Yemek": "Keşkül",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200-100g", "200g", "150g"]
+  },
+  "19-09-2025": {
+    "1. Yemek": "Ezogelin Çorba / Toyga Çorba",
+    "2. Yemek": "Sini Kebap + Sebze Kızartma",
+    "3. Yemek": "Pirinç Pilavı",
+    "4. Yemek": "Kaşık Salata",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "250-60g", "200g", "100g"]
+  },
+  "20-09-2025": {
+    "1. Yemek": "Mercimek Çorba / Tarhana Çorba",
+    "2. Yemek": "Tavuk Şiş + Karışık Salata / Taze Fasulye",
+    "3. Yemek": "Sade Makarna",
+    "4. Yemek": "Yoğurt",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200g", "200g", "150g"]
+  },
+  "21-09-2025": {
+    "1. Yemek": "Ezogelin Çorba / Düğün Çorba",
+    "2. Yemek": "Nohut Yemeği / İmam Bayıldı",
+    "3. Yemek": "Şehriyeli Bulgur Pilavı",
+    "4. Yemek": "Baklava (Cevizli/Fındıklı)",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200g", "200g", "150g"]
+  },
+  "22-09-2025": {
+    "1. Yemek": "Mercimek Çorba / Yüksük Çorba",
+    "2. Yemek": "Köfte Ekmek / Karnabahar Pane",
+    "3. Yemek": "Garnitürlü Pirinç Pilavı",
+    "4. Yemek": "Çoban Salata",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "250-90g", "150g", "100g"]
+  },
+  "23-09-2025": {
+    "1. Yemek": "Ezogelin Çorba / Mısır Çorba",
+    "2. Yemek": "Tavuk Çökerme / Bezelye Yemeği",
+    "3. Yemek": "Bulgur Pilavı",
+    "4. Yemek": "Soslu Kızartma",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200-100g", "200g", "200 ml"]
+  },
+  "24-09-2025": {
+    "1. Yemek": "Mercimek Çorba / Yayla Çorba",
+    "2. Yemek": "Akçaabat Köfte / Mevsim Türlü",
+    "3. Yemek": "Peynirli Makarna",
+    "4. Yemek": "Bisküvili Pasta",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200-100g", "200g", "150g"]
+  },
+  "25-09-2025": {
+    "1. Yemek": "Ezogelin Çorba / Sebze Çorba",
+    "2. Yemek": "Tavuk Külbastı + Kaşık Salata / Taze Fasulye",
+    "3. Yemek": "Nohutlu Bulgur Pilavı",
+    "4. Yemek": "Pembe Sultan",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200-100g", "200g", "150g"]
+  },
+  "26-09-2025": {
+    "1. Yemek": "Mercimek Çorba / Domates Çorba",
+    "2. Yemek": "Kuru Fasulye / Mücver",
+    "3. Yemek": "Pirinç Pilavı",
+    "4. Yemek": "Kemalpaşa / Şekerpare",
+    "Ek": ["Turşu","Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200g+150g", "200g", "100g"]
+  },
+  "27-09-2025": {
+    "1. Yemek": "Ezogelin Çorba / Düğün Çorba",
+    "2. Yemek": "Beşamel Soslu Tavuk / Ispanak Yemeği",
+    "3. Yemek": "Spagetti",
+    "4. Yemek": "Cacık",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200g", "200g", "150g"]
+  },
+  "28-09-2025": {
+    "1. Yemek": "Mercimek Çorba / Tarhana Çorba",
+    "2. Yemek": "Patlıcan Musakka / Patates Yemeği",
+    "3. Yemek": "Şehriyeli Pirinç Pilavı",
+    "4. Yemek": "Elma",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200g", "200g", "150-200g"]
+  },
+  "29-09-2025": {
+    "1. Yemek": "Ezogelin Çorba / Toyga Çorba",
+    "2. Yemek": "Tavuk Fajita / Sebze Kızartma",
+    "3. Yemek": "Bulgur Pilavı",
+    "4. Yemek": "Rus Salatası",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "250-90g", "200g", "150g"]
+  },
+  "30-09-2025": {
+    "1. Yemek": "Mercimek Çorba / Şehriye Çorba",
+    "2. Yemek": "Kaşarlı Köfte / Biber Dolması",
+    "3. Yemek": "Sade Makarna",
+    "4. Yemek": "Ayran",
+    "Ek": ["Çeyrek Ekmek", "500 ml Su"],
+    "Gramaj": ["250g", "200g", "200g", "180-200 ml"]
+  }
+}

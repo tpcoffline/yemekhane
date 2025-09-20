@@ -1,0 +1,18 @@
+# Node / Vite artifacts
+site/node_modules/
+site/dist/
+
+# Logs & caches
+*.log
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+
+
